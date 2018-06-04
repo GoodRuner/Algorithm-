@@ -1,0 +1,2 @@
+# Algorithm-
+simple Algorithm
