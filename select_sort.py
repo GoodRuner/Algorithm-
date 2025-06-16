@@ -7,7 +7,7 @@ def find_small(arr):
 			smallest_index = i
 	return smallest_index
 
-
+jhkhkhkj
 def select_sort(arr):
 	newarr = []
 	for  i in range(len(arr)):
